@@ -2257,6 +2257,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.it/ristoranti/10-ristoranti-napoli.html</loc>
+    <lastmod>2018-12-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.it/ristoranti/editions-poke-shop-roma.html</loc>
     <lastmod>2018-12-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2834,6 +2840,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.it/contact/</loc>
+    <lastmod>2018-12-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.it/tag/napoli.html</loc>
     <lastmod>2018-12-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6998,12 +7010,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.it/tag/macarons.html</loc>
-    <lastmod>2018-12-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.it/tag/napoli.html</loc>
     <lastmod>2018-12-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
