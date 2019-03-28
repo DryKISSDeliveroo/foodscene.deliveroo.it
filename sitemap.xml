@@ -25,24 +25,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.it/cuisine-inspiration/story-behind-the-dish-american-pancakes.html</loc>
-    <lastmod>2019-03-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.it/food-trends/piedmont-italy-new-food-capital.html</loc>
-    <lastmod>2019-03-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.it/promotions/introducing-deliveroo-foodscene.html</loc>
-    <lastmod>2019-03-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.it/promo/weekend-colazione-lavazza.html</loc>
     <lastmod>2019-03-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -7009,67 +6991,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.it/tag/story-behind-the-dish.html</loc>
-    <lastmod>2019-03-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.it/tag/american-pancakes.html</loc>
-    <lastmod>2019-03-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.it/tag/maple-syrup.html</loc>
-    <lastmod>2019-03-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.it/tag/breakfast.html</loc>
-    <lastmod>2019-03-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.it/tag/salty.html</loc>
-    <lastmod>2019-03-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.it/tag/sweet.html</loc>
-    <lastmod>2019-03-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.it/tag/coffee.html</loc>
-    <lastmod>2019-03-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.it/tag/mondadori.html</loc>
-    <lastmod>2019-03-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.it/tag/turin.html</loc>
-    <lastmod>2019-03-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.it/tag/san-salvario.html</loc>
-    <lastmod>2019-03-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.it/tag/desserts.html</loc>
     <lastmod>2019-03-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -7214,12 +7136,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.it/tag/sport.html</loc>
-    <lastmod>2019-03-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.it/tag/foodscene.html</loc>
     <lastmod>2019-03-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -7489,24 +7405,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.it/cuisine-inspiration.html</loc>
-    <lastmod>2019-03-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.it/food-trends.html</loc>
-    <lastmod>2019-03-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.it/promotions.html</loc>
-    <lastmod>2019-03-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.it/deliveroo-italy.html</loc>
     <lastmod>2019-03-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -7568,12 +7466,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.it/andre-culi.html</loc>
-    <lastmod>2019-03-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.it/editor.html</loc>
     <lastmod>2019-03-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
