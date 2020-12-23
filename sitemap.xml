@@ -583,6 +583,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.it/novita-e-tendenze/oroscopo-foodie-2021.html</loc>
+    <lastmod>2020-12-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.it/novita-e-tendenze/panettone-offerta.html</loc>
     <lastmod>2020-12-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2917,13 +2923,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.it/tag/terms.html</loc>
+    <loc>https://foodscene.deliveroo.it/tag/food.html</loc>
     <lastmod>2020-12-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.it/tag/food.html</loc>
+    <loc>https://foodscene.deliveroo.it/tag/terms.html</loc>
     <lastmod>2020-12-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -7621,13 +7627,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.it/terms.html</loc>
+    <loc>https://foodscene.deliveroo.it/novita-e-tendenze.html</loc>
     <lastmod>2020-12-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.it/novita-e-tendenze.html</loc>
+    <loc>https://foodscene.deliveroo.it/terms.html</loc>
     <lastmod>2020-12-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -8576,6 +8582,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.it/che-si-mangia-oggi/page/26.html</loc>
+    <lastmod>2020-12-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.it/deliveroo/page/2.html</loc>
     <lastmod>2020-12-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
