@@ -13,7 +13,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.it/terms/nux-mov-10-euro-1-gennaio-31-marzo.html</loc>
+    <loc>https://foodscene.deliveroo.it/terms/nux-mov-10-euro-1-aprile-17-luglio.html</loc>
     <lastmod>2021-03-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2935,6 +2935,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.it/tag/terms.html</loc>
+    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.it/tag/news.html</loc>
     <lastmod>2021-03-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2942,12 +2948,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.it/tag/food.html</loc>
-    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.it/tag/terms.html</loc>
     <lastmod>2021-03-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -7645,6 +7645,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.it/terms.html</loc>
+    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.it/ristoranti.html</loc>
     <lastmod>2021-03-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -7663,12 +7669,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.it/terms.html</loc>
-    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.it/che-si-mangia-oggi.html</loc>
     <lastmod>2021-03-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -7681,13 +7681,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.it/deliveroo-italy.html</loc>
+    <loc>https://foodscene.deliveroo.it/deliveroo.html</loc>
     <lastmod>2021-03-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.it/deliveroo.html</loc>
+    <loc>https://foodscene.deliveroo.it/deliveroo-italy.html</loc>
     <lastmod>2021-03-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -8605,6 +8605,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.it/deliveroo/page/2.html</loc>
+    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.it/deliveroo-italy/page/2.html</loc>
     <lastmod>2021-03-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -8732,12 +8738,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.it/deliveroo-italy/page/23.html</loc>
-    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.it/deliveroo/page/2.html</loc>
     <lastmod>2021-03-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
