@@ -67,6 +67,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.it/terms/odg-10-euros-voucher-october-2021.html</loc>
+    <lastmod>2021-10-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.it/promo/weekend-colazione-lavazza.html</loc>
     <lastmod>2021-10-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2989,13 +2995,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.it/tag/food.html</loc>
+    <loc>https://foodscene.deliveroo.it/tag/terms.html</loc>
     <lastmod>2021-10-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.it/tag/terms.html</loc>
+    <loc>https://foodscene.deliveroo.it/tag/food.html</loc>
     <lastmod>2021-10-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -7699,13 +7705,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.it/novita-e-tendenze.html</loc>
+    <loc>https://foodscene.deliveroo.it/terms.html</loc>
     <lastmod>2021-10-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.it/terms.html</loc>
+    <loc>https://foodscene.deliveroo.it/novita-e-tendenze.html</loc>
     <lastmod>2021-10-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -8396,6 +8402,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.it/archive/2016/page/4.html</loc>
+    <lastmod>2021-10-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.it/terms/page/2.html</loc>
     <lastmod>2021-10-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
