@@ -7,6 +7,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.it/terms/plus-5-riduzione-25.html</loc>
+    <lastmod>2021-11-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.it/terms/nux-mov-10-euro-7nov-30gen22.html</loc>
     <lastmod>2021-11-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -3008,6 +3014,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.it/about/</loc>
+    <lastmod>2021-11-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.it/tag/offerta.html</loc>
     <lastmod>2021-11-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -7723,13 +7735,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.it/novita-e-tendenze.html</loc>
+    <loc>https://foodscene.deliveroo.it/terms.html</loc>
     <lastmod>2021-11-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.it/terms.html</loc>
+    <loc>https://foodscene.deliveroo.it/novita-e-tendenze.html</loc>
     <lastmod>2021-11-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -8431,6 +8443,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.it/terms/page/2.html</loc>
+    <lastmod>2021-11-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.it/novita-e-tendenze/page/2.html</loc>
     <lastmod>2021-11-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -8468,12 +8486,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.it/novita-e-tendenze/page/8.html</loc>
-    <lastmod>2021-11-16T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.it/terms/page/2.html</loc>
     <lastmod>2021-11-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
