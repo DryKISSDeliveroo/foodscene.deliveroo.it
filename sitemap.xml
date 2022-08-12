@@ -49,7 +49,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.it/terms/nux-mov-10-euro-01aug-25sept-22-national.html</loc>
+    <loc>https://foodscene.deliveroo.it/terms/nux-mov-10-euro-01aug-25sept22-national.html</loc>
     <lastmod>2022-08-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -776,6 +776,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.it/novita-e-tendenze/nuovo-design-app.html</loc>
+    <lastmod>2022-08-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.it/novita-e-tendenze/sondaggio-serie-a-2022.html</loc>
     <lastmod>2022-08-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -3127,13 +3133,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.it/tag/terms.html</loc>
+    <loc>https://foodscene.deliveroo.it/tag/food.html</loc>
     <lastmod>2022-08-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.it/tag/food.html</loc>
+    <loc>https://foodscene.deliveroo.it/tag/terms.html</loc>
     <lastmod>2022-08-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -7849,13 +7855,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.it/terms.html</loc>
+    <loc>https://foodscene.deliveroo.it/novita-e-tendenze.html</loc>
     <lastmod>2022-08-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.it/novita-e-tendenze.html</loc>
+    <loc>https://foodscene.deliveroo.it/terms.html</loc>
     <lastmod>2022-08-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -7951,6 +7957,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.it/tag/food/page/2.html</loc>
+    <lastmod>2022-08-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.it/tag/terms/page/2.html</loc>
     <lastmod>2022-08-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -7958,12 +7970,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.it/tag/terms/page/3.html</loc>
-    <lastmod>2022-08-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.it/tag/food/page/2.html</loc>
     <lastmod>2022-08-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -8569,18 +8575,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.it/terms/page/2.html</loc>
-    <lastmod>2022-08-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.it/terms/page/3.html</loc>
-    <lastmod>2022-08-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.it/novita-e-tendenze/page/2.html</loc>
     <lastmod>2022-08-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -8624,6 +8618,18 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.it/novita-e-tendenze/page/9.html</loc>
+    <lastmod>2022-08-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.it/terms/page/2.html</loc>
+    <lastmod>2022-08-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.it/terms/page/3.html</loc>
     <lastmod>2022-08-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
